@@ -1,3 +1,5 @@
+
+https://github.com/dope232/ftdb/assets/110282397/4141ba45-9739-48b4-b56e-d1a620466675
 # How to Run
 
 1. **Clone the Repository :**
@@ -23,10 +25,14 @@ Execute the ftdb.py file to start the application.
 
 
 
-          
+ 
+
+**Note:** : Ensure that you have PostgreSQL and PgAdmin installed and properly configured. You also  won't be able to retrieve your database password using PgAdmin.         
+
+### Video 
+
+https://github.com/dope232/ftdb/assets/110282397/88b7462c-1e30-41ba-99a0-146f4a7c610f
 
 
-
-**Note:** : Ensure that you have PostgreSQL and PgAdmin installed and properly configured. You also  won't be able to retrieve your database password using PgAdmin.
 
 
