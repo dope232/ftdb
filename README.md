@@ -1,5 +1,5 @@
 
-https://github.com/dope232/ftdb/assets/110282397/4141ba45-9739-48b4-b56e-d1a620466675
+
 # How to Run
 
 1. **Clone the Repository :**
